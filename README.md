@@ -1,6 +1,6 @@
-# BIAI Corporate Lead Pipeline — Enterprise Sales CRM
+# Lead Pipeline — Enterprise Sales CRM
 
-An enterprise-ready corporate lead management and sales pipeline intelligence system custom-built for **Bangladesh Institute of AI (BIAI)**. Designed to solve lead leakage, overdue follow-ups, duplicate records, and invisible bottlenecks in corporate training sales.
+This is an enterprise-ready corporate lead management and sales pipeline intelligence system. Designed to solve lead leakage, overdue follow-ups, duplicate records, and invisible bottlenecks in corporate training sales.
 
 Built in accordance with the frozen architecture design, adhering to a modular monolith pattern, authoritative database calculations, and grounded AI assistance.
 
