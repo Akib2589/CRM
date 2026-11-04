@@ -72,7 +72,7 @@ npm run dev -- -p 3000
 
 ---
 
-## 6. Submission Note (For the Hiring Team)
+## 6. Submission Note
 
 - **What was built**: A full-stack pipeline web app with 4 comprehensive screens, SQLite persistence, two-phase CSV import with validation preview, CSV export, duplicate merger, follow-up scheduler, AI email generator, and conversational sales intelligence.
 - **AI tools used**:
